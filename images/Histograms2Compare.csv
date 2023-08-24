@@ -1,0 +1,3 @@
+﻿filename (data),path (relative or absolute),label (start with a letter not a number)
+HP_5_BW_small_data.mat,images,HP 5
+test_image_BW_data.mat,images,test images

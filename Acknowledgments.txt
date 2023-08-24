@@ -1,0 +1,7 @@
+Several of the scripts have been started and used as Matlab scripts for work done on the following research papers, with contributions acknowledged herein:
+Attinger D, Comiskey PM, Yarin AL, De Brabanter K. Determining the region of origin of blood spatter patterns considering fluid dynamics and statistical uncertainties. Forensic Sci Int. 2019 May;298:323-31.doi: 10.1016/j.forsciint.2019.02.003
+Liu Y, Attinger D, De Brabanter K. Automatic Classification of Bloodstain Patterns Caused by Gunshot and Blunt Impact at Various Distances. J Forensic Sci. 2020 May;65(3):729-43.doi: 10.1111/1556-4029.14262
+Faflak R, Attinger D. Do impact spatters depend on impact velocity, impact energy or impactor shape? Experiments in Fluids. 2021;62(12).doi: 10.1007/s00348-021-03341-1
+
+Unless specified otherwise in the early lines of the scripts, this set of script was finalized by 
+Dr. Daniel Attinger at Struo LLC.

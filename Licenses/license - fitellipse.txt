@@ -1,0 +1,15 @@
+
+
+fitellipse.m % FITELLIPSE  Least-squares fit of ellipse to 2D points.
+%        A = FITELLIPSE(X,Y) returns the parameters of the best-fit
+%        ellipse to 2D points (X,Y).
+%        The returned vector A contains the center, radii, and orientation
+%        of the ellipse, stored as (Cx, Cy, Rx, Ry, theta_radians)
+%
+% Authors: Andrew Fitzgibbon, Maurizio Pilu, Bob Fisher
+% Reference: "Direct Least Squares Fitting of Ellipses", IEEE T-PAMI, 1999
+%
+% This is a more bulletproof version than that in the paper, incorporating
+% scaling to reduce roundoff error, correction of behaviour when the input
+% data are on a perfect hyperbola, and returns the geometric parameters
+% of the ellipse, rather than the coefficients of the quadratic form.
