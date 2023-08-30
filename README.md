@@ -37,7 +37,7 @@ Required Repository Files to run the code:
 The image preprocessing step is done with dedicated open source software like GIMP or FIJI. The next two steps are done by running the script files provided in this package with the open\-source scientific computing software Octave. All the work can be done on your local computer \(Mac, PC, Linux\) or from a web browser using online computing services indicated below. While Octave is generally compatible with Matlab, these scripts have not been tested with Matlab and its toolboxes.
 
 # Video Presentation of the tool
-[https://youtu.be/t4qPyakseR8](https://youtu.be/t4qPyakseR8?si=q3cO7dhipfp4J5ys) describes the following topics:  
+https://www.youtube.com/watch?v=t4qPyakseR8 describes the following topics:  
 -Rationale  
 -Concept of the open-source tool  
 -Workflow, input and output  
